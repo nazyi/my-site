@@ -93,6 +93,14 @@ If you notice something that can be improved, feel free to open an issue or subm
 
 ---
 
+## Disclaimer
+
+This website is intended for **educational and informational purposes only**.
+
+The content published here is created to document my learning process, share knowledge, and showcase personal work. It is **not intended to encourage or support any unauthorized or malicious activities**.
+
+---
+
 <div align="center">
 
 Made with ☕ and curiosity.
